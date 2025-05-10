@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Qiong Yang.
 - 🔭 I’m currently working for Hunan University of Chinese Medicine
 - 🌱 I’m good at artificial intelligence in biochemistry
-- 👯 I’m looking to collaborate on metabolomics and  Cheminformatics
+- 👯 I’m looking to collaborate on metabolomics and cheminformatics
 - 📫 How to reach me: qiongyang@hnucm.edu.cn
 
 
